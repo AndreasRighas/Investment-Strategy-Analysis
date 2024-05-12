@@ -1,21 +1,14 @@
-# Investment-Strategy-Analysis
-This poject explores different investment strategies that involves both cryptocurrencies and traditional markets.
+Predictive Insights: Analyzing Asset Performance with Advanced Simulation Techniques
 
-## Overview
+Project Objective
+This project is designed to conduct a comprehensive analysis of the investment performance of various assets, including Bitcoin, Ethereum, S&P 500, and Gold. By leveraging historical price data from January 2020 to March 2024, the study aims to dive into the dynamics of these assets, examining their price movements and evaluating their performance from the perspectives of risk and return.
 
-The analysis includes historical price data for cryptocurrencies (Bitcoin, Ethereum, and Litecoin) and traditional assets (Gold and S&P 500). The primary goal is to understand the trends and patterns in the market and evaluate the performance of various investment scenarios with the best return on investment.
+The analysis will focus on the calculation of key financial metrics to illuminate the risk-return trade-offs and the correlations between these assets. Additionally, the study will assess the impact of different monthly investment amounts like  10,
+ 50, and $100.
 
-## Key Features
+To enhance the robustness of the predictions about future market behaviors, both Long Short-Term Memory (LSTM) models and Monte Carlo simulations will be employed. These methodologies will be applied to determine the feasibility of predicting market trends based solely on date and price data, aiming to uncover deeper insights into the potential predictive power of these models within the complex landscape of financial markets.
 
-- Fetches historical cryptocurrency price data from CoinGecko API and traditional financial data from Yahoo Finance.
-- Calculates monthly returns for cryptocurrencies (Bitcoin, Ethereum, and Litecoin).
-- Identifies positive monthly return periods for each cryptocurrency.
-- Records cryptocurrency prices and dates for further analysis.
-- Simulates monthly investments for different amounts in Bitcoin, Ethereum, and Litecoin.
-- Compares investment strategies for cryptocurrencies, Gold, and S&P 500.
-- Visualizes trends, balances, and cumulative investments over time.
-- Identifies the best ROI
-
+The objective is to not only understand historical performance but also to explore the effectiveness of analytical techniques in forecasting future asset valuations, providing a valuable resource for strategic investment planning.
 ## Data Sources
 
 - Cryptocurrency data: CoinGecko API
