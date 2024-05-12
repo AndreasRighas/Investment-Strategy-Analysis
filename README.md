@@ -16,17 +16,21 @@ The objective is to not only understand historical performance but also to explo
 
 ## Analysis
 
-### Cryptocurrency Trends and Investments
-
-The project analyzes the historical trends of Bitcoin, Ethereum, and Litecoin. Monthly returns are calculated, and positive return periods are identified. The code simulates different monthly investments in cryptocurrencies, providing insights into how these investments would perform over time.
-
-### Traditional Financial Assets
-
-The analysis extends to traditional financial assets, including Gold and S&P 500. Monthly investments are simulated, and the cumulative balances are compared over time.
-
-### Visualization
-
-The code uses Matplotlib and Seaborn for visualization. Line charts depict the historical prices of cryptocurrencies, cumulative investment balances, and trends over time. The project aims to provide a visual representation of investment strategies and their outcomes.
+-Data Source and Selection
+-Viewing the Data
+-Simulating Monthly Investments
+-Relationship & the Correlation of Assets
+-Correlation Matrixs as a Heatmap:
+-Performance of Each Asset Investment
+-Risk Return Trade Off
+-Comparative Analysis
+-Investment Outcomes
+-Moving Average Trends
+-Machine Learning Model for Time Series Prediction LSTM Neural Network Setup
+-MSE, RMSE, MAE, and MAPE
+-Monte Carlo Simulation using Geometric Brownian Motion
+-Monte Carlo Simulation Validation
+-Conclusion
 
 ## Prerequisites
 
